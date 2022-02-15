@@ -24,13 +24,6 @@
     <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/diary_addPage_newCommon.css">
     <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/diary.css">
 
-    <link rel="stylesheet" href="/hachioji/assets/css/template-proper.css?12320220127134650" />
-    <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/common.css">
-    <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/custom.css">
-    <link rel="stylesheet" type="text/css" href="/hachioji/assets/css/pc-information.css?20220127134650" />
-
-
     <style>
         select[name=output] {
             font-size: 16px !important;
